@@ -31,7 +31,7 @@
     }
   },
   "release": {
-    "repositoryUrl": "https://github.com/praliptarajoo/fmdapi-node-weaver-foss",
+    "repositoryUrl": "https://github.com/praliptarajoo/fmdapi-node-weaver-foss.git",
     "branches": [
       "release-note-check"
     ]
