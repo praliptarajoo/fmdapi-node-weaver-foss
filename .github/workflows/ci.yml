@@ -3,7 +3,7 @@ name: Deployment Workflow
 on:
   push:
     branches:
-      - main
+      - release-note-check
   workflow_dispatch:
 
 jobs:
